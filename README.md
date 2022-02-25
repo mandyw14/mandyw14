@@ -2,7 +2,7 @@
 - 👀 I’m interested in neuroscience, psychology, behavior, quantified self.
 - 🌱 I’m currently learning about data science and programming. I have a PhD in the above and trying to expand my skills into the data science world.
 - 💞️ I’m looking to collaborate on... IDK yet... 
-- 📫 How to reach me ... mandy@knowyourbrain.ca 
+- 📫 How to reach me ... ajwintink@mac.com 
 
 <!---
 mandyw14/mandyw14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
